@@ -2,7 +2,7 @@
 <QuickAction xmlns="http://soap.sforce.com/2006/04/metadata">
     <fieldOverrides>
         <field>Owner__c</field>
-        <formula>$User.Id</formula>
+        <formula>Case.CreatedById</formula>
     </fieldOverrides>
     <label>Collaboration Request Task</label>
     <optionsCreateFeedItem>true</optionsCreateFeedItem>

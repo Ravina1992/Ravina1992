@@ -88,11 +88,48 @@
                 <label>Auditor</label>
             </value>
             <value>
+                <fullName>EPC</fullName>
+                <default>false</default>
+                <label>EPC</label>
+            </value>
+            <value>
                 <fullName>Vendor</fullName>
                 <default>false</default>
                 <label>Vendor</label>
             </value>
         </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>3rd Party</controllingFieldValue>
+            <valueName>Partner</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>3rd Party</controllingFieldValue>
+            <valueName>Reseller</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>3rd Party</controllingFieldValue>
+            <valueName>System Integrator</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>3rd Party</controllingFieldValue>
+            <valueName>Consultancy</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>3rd Party</controllingFieldValue>
+            <valueName>Cybersecurity</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>3rd Party</controllingFieldValue>
+            <valueName>Auditor</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>3rd Party</controllingFieldValue>
+            <valueName>Vendor</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Competitor</controllingFieldValue>
+            <valueName>N/A</valueName>
+        </valueSettings>
         <valueSettings>
             <controllingFieldValue>Prospect</controllingFieldValue>
             <controllingFieldValue>Customer</controllingFieldValue>
@@ -134,32 +171,9 @@
             <valueName>Developer</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>3rd Party</controllingFieldValue>
-            <valueName>Partner</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>3rd Party</controllingFieldValue>
-            <valueName>Reseller</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>3rd Party</controllingFieldValue>
-            <valueName>System Integrator</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>3rd Party</controllingFieldValue>
-            <valueName>Consultancy</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>3rd Party</controllingFieldValue>
-            <valueName>Cybersecurity</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>3rd Party</controllingFieldValue>
-            <valueName>Auditor</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>3rd Party</controllingFieldValue>
-            <valueName>Vendor</valueName>
+            <controllingFieldValue>Prospect</controllingFieldValue>
+            <controllingFieldValue>Customer</controllingFieldValue>
+            <valueName>EPC</valueName>
         </valueSettings>
     </valueSet>
 </CustomField>

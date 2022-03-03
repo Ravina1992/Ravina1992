@@ -7,13 +7,13 @@
         <label>Prospect</label>
     </standardValue>
     <standardValue>
-        <fullName>Former Customer</fullName>
-        <default>false</default>
-        <label>Former Customer</label>
-    </standardValue>
-    <standardValue>
         <fullName>Customer</fullName>
         <default>false</default>
         <label>Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Former Customer</fullName>
+        <default>false</default>
+        <label>Former Customer</label>
     </standardValue>
 </StandardValueSet>

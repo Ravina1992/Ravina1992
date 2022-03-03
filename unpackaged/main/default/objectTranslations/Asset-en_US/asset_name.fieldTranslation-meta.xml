@@ -6,7 +6,7 @@
         </caseValues>
         <caseValues>
             <plural>true</plural>
-            <value>Asset Non-Recurring Product Names</value>
+            <value>Non-Recurring Product Names</value>
         </caseValues>
         <name>asset_name</name>
         <startsWith>Consonant</startsWith>

@@ -4,15 +4,8 @@
     <name>Designated Article Reviewers</name>
     <queueMembers>
         <users>
-            <user>ayush.k12@tcs.com</user>
-            <user>ishan.b@tcs.com</user>
-            <user>mohammadsameer.siddiqui@tcs.com</user>
-            <user>mohit.chaurasiya@tcs.com</user>
-            <user>ravina.barud@tcs.com</user>
-            <user>parihar.sandeep@pfdrive.com</user>
-            <user>sharma.shiva2@tcs.com</user>
-            <user>utkarsh.pal1@tcs.com</user>
-            <user>yash.sharma7@tcs.com</user>
+            <user>kristoffer@greenbyte.com</user>
+            <user>rmendoza@pfdrive.com</user>
         </users>
     </queueMembers>
     <queueSobject>

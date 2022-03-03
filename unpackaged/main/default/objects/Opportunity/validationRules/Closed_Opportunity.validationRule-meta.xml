@@ -9,11 +9,11 @@ ISPICKVAL( StageName , &quot;Closed Won&quot;),
 ISPICKVAL( StageName , &quot;Closed Lost&quot;)
 ),
 
-$Profile.Name  &lt;&gt; &quot;PF Ops&quot;,
-$Profile.Name  &lt;&gt; &quot;PF Legal&quot;,
-$Profile.Name  &lt;&gt; &quot;PF Finance&quot;,
-$Profile.Name  &lt;&gt; &quot;PF Super User&quot;,
-$Profile.Name  &lt;&gt; &quot;System Administrator&quot;
+$Profile.Name &lt;&gt; &quot;PF Ops&quot;,
+$Profile.Name &lt;&gt; &quot;PF Legal&quot;,
+$Profile.Name &lt;&gt; &quot;PF Finance&quot;,
+$Profile.Name &lt;&gt; &quot;PF Super User&quot;,
+$Profile.Name &lt;&gt; &quot;System Administrator&quot;
 
 
 

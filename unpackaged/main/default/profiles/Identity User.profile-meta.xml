@@ -3254,7 +3254,7 @@
         <layout>ProfileSkillUser-Skill User Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Purchased_Product_Transaction__c-Purchased Product Transaction Record Layout</layout>
+        <layout>Purchased_Product_Transaction__c-Purchased Product Transaction Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Purchased_Product__c-Purchase Product Layout</layout>
@@ -3410,9 +3410,9 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
-        <default>true</default>
+        <default>false</default>
         <recordType>Task.Collaboration_Request_Task</recordType>
-        <visible>true</visible>
+        <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Account_Plant__c</tab>

@@ -5,5 +5,5 @@
             <value>Account Fax</value>
         </caseValues>
         <name>fax_account</name>
-        <startsWith>Vowel</startsWith>
+        <startsWith>Consonant</startsWith>
     </CustomFieldTranslation>

@@ -2,18 +2,6 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Closed</fullName>
-        <default>false</default>
-        <label>Closed</label>
-        <closed>true</closed>
-    </standardValue>
-    <standardValue>
-        <fullName>New</fullName>
-        <default>true</default>
-        <label>New</label>
-        <closed>false</closed>
-    </standardValue>
-    <standardValue>
         <fullName>Assigned</fullName>
         <default>false</default>
         <label>Assigned</label>
@@ -24,6 +12,12 @@
         <default>false</default>
         <label>Canceled</label>
         <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Closed</fullName>
+        <default>false</default>
+        <label>Closed</label>
+        <closed>true</closed>
     </standardValue>
     <standardValue>
         <fullName>Development finished</fullName>
@@ -41,6 +35,12 @@
         <fullName>In Progress</fullName>
         <default>false</default>
         <label>In Progress</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>New</fullName>
+        <default>true</default>
+        <label>New</label>
         <closed>false</closed>
     </standardValue>
     <standardValue>
@@ -80,15 +80,15 @@
         <closed>false</closed>
     </standardValue>
     <standardValue>
-        <fullName>Under Review</fullName>
-        <default>false</default>
-        <label>Under Review</label>
-        <closed>false</closed>
-    </standardValue>
-    <standardValue>
         <fullName>Under Development</fullName>
         <default>false</default>
         <label>Under Development</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Under Review</fullName>
+        <default>false</default>
+        <label>Under Review</label>
         <closed>false</closed>
     </standardValue>
     <standardValue>
@@ -101,18 +101,6 @@
         <fullName>Work Complete</fullName>
         <default>false</default>
         <label>Work Complete</label>
-        <closed>false</closed>
-    </standardValue>
-    <standardValue>
-        <fullName>Resolution Delivered</fullName>
-        <default>false</default>
-        <label>Resolution Delivered</label>
-        <closed>false</closed>
-    </standardValue>
-    <standardValue>
-        <fullName>Confirm Pending</fullName>
-        <default>false</default>
-        <label>Confirm Pending</label>
         <closed>false</closed>
     </standardValue>
 </StandardValueSet>

@@ -16,9 +16,4 @@
         <default>false</default>
         <label>Closings</label>
     </standardValue>
-    <standardValue>
-        <fullName>Chat</fullName>
-        <default>false</default>
-        <label>Chat</label>
-    </standardValue>
 </StandardValueSet>

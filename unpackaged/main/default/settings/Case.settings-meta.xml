@@ -8,10 +8,11 @@
     </caseFeedItemSettings>
     <caseFeedReadUnreadLtng>false</caseFeedReadUnreadLtng>
     <caseMergeInLightning>false</caseMergeInLightning>
-    <closeCaseThroughStatusChange>true</closeCaseThroughStatusChange>
+    <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>false</defaultCaseFeedLayoutOn>
     <defaultCaseOwner>jresetco-crm@pfdrive.energy</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
+    <defaultCaseUser>jresetco-crm@pfdrive.energy</defaultCaseUser>
     <emailToCase>
         <enableE2CAttachmentAsFile>true</enableE2CAttachmentAsFile>
         <enableE2CSourceTracking>true</enableE2CSourceTracking>
@@ -26,26 +27,12 @@
         <routingAddresses>
             <addressType>EmailToCase</addressType>
             <caseOrigin>Email</caseOrigin>
-            <caseOwner>ayush.k12@tcs.com</caseOwner>
-            <caseOwnerType>User</caseOwnerType>
-            <casePriority>P4 - Low</casePriority>
-            <createTask>true</createTask>
-            <emailAddress>ravina.barud@pfdrive.com</emailAddress>
-            <emailServicesAddress>ravina.barud@rbv4t6xgwrr4xofahczpytm2rvskyvq85j6mdr941kptpgu68.7j-h3oxea0.cs203.case.sandbox.salesforce.com</emailServicesAddress>
-            <isVerified>true</isVerified>
-            <routingName>Email Service Routing</routingName>
-            <saveEmailHeaders>true</saveEmailHeaders>
-            <taskStatus>Open</taskStatus>
-        </routingAddresses>
-        <routingAddresses>
-            <addressType>EmailToCase</addressType>
-            <caseOrigin>Email</caseOrigin>
             <caseOwner>BluePoint</caseOwner>
             <caseOwnerType>Queue</caseOwnerType>
             <casePriority>P4 - Low</casePriority>
             <createTask>false</createTask>
             <emailAddress>test.support@3megawatt.com</emailAddress>
-            <emailServicesAddress>test.support@e-2oi3z0u9pgsvaocnj1w35uchv2soj4l3cfqj0izfvmi3f9zi49.7j-h3oxea0.cs203.case.sandbox.salesforce.com</emailServicesAddress>
+            <emailServicesAddress>test.support@34z9lumwgqrm5hs25sd24j34ctbd1yvsit358j6hwfdg80bcum.8f-8j3guaq.cs218.case.sandbox.salesforce.com</emailServicesAddress>
             <isVerified>false</isVerified>
             <routingName>Routes to BluePoint</routingName>
             <saveEmailHeaders>true</saveEmailHeaders>
@@ -58,7 +45,7 @@
             <casePriority>P4 - Low</casePriority>
             <createTask>false</createTask>
             <emailAddress>test.support@pfdrive.com</emailAddress>
-            <emailServicesAddress>test.support@1wk4a1mn3ktxoe6llkmvxsu6mnn0olbcous9tmiwcl6kpntqiu.7j-h3oxea0.cs203.case.sandbox.salesforce.com</emailServicesAddress>
+            <emailServicesAddress>test.support@b-28bd7rr8y59s3fgmxzj3ax45cjf5tv2kw3cduatfvzm3b3dvgu.8f-8j3guaq.cs218.case.sandbox.salesforce.com</emailServicesAddress>
             <isVerified>false</isVerified>
             <routingName>Routes to Drive</routingName>
             <saveEmailHeaders>true</saveEmailHeaders>
@@ -71,7 +58,7 @@
             <casePriority>P4 - Low</casePriority>
             <createTask>false</createTask>
             <emailAddress>test.support@greenbyte.com</emailAddress>
-            <emailServicesAddress>test.support@x-21aq9iakgso1qojl47w07npe66tprcxuetqcc6w1nj13ozlrgy.7j-h3oxea0.cs203.case.sandbox.salesforce.com</emailServicesAddress>
+            <emailServicesAddress>test.support@7-2kcxwq6i7llx1018uwcm9way20isunc7chxv7i07ghtpy9k28q.8f-8j3guaq.cs218.case.sandbox.salesforce.com</emailServicesAddress>
             <isVerified>false</isVerified>
             <routingName>Routes to Greenbyte</routingName>
             <saveEmailHeaders>true</saveEmailHeaders>
@@ -84,8 +71,8 @@
             <casePriority>P4 - Low</casePriority>
             <createTask>false</createTask>
             <emailAddress>upal@pfdrive.com</emailAddress>
-            <emailServicesAddress>upal@tu398bw676z80q27h5m27v3vxp6givjdkeq0m43rbhvwyioz8.7j-h3oxea0.cs203.case.sandbox.salesforce.com</emailServicesAddress>
-            <isVerified>true</isVerified>
+            <emailServicesAddress>upal@30rgqydadvb0hbqm545y5x31oob0i6mjgbjxyneno667wb1v0r.8f-8j3guaq.cs218.case.sandbox.salesforce.com</emailServicesAddress>
+            <isVerified>false</isVerified>
             <routingName>Utkarsh Pal</routingName>
             <saveEmailHeaders>false</saveEmailHeaders>
         </routingAddresses>
@@ -97,17 +84,16 @@
     <enableEarlyEscalationRuleTriggers>false</enableEarlyEscalationRuleTriggers>
     <enableEmailActionDefaultsHandler>false</enableEmailActionDefaultsHandler>
     <enableEscalateQfiToCaseInternal>false</enableEscalateQfiToCaseInternal>
-    <enableEscalateQfiToCaseNetworks>false</enableEscalateQfiToCaseNetworks>
     <enableMultiLangSolnSrchCSS>false</enableMultiLangSolnSrchCSS>
     <enableMultiLangSolnSrchPKB>false</enableMultiLangSolnSrchPKB>
     <enableMultiLangSolution>false</enableMultiLangSolution>
     <enableSolutionCategory>false</enableSolutionCategory>
     <enableSolutionInlineCategory>true</enableSolutionInlineCategory>
     <enableSolutionShortSummary>true</enableSolutionShortSummary>
-    <enableSuggestedArticlesApplication>false</enableSuggestedArticlesApplication>
-    <enableSuggestedArticlesCustomerPortal>false</enableSuggestedArticlesCustomerPortal>
-    <enableSuggestedArticlesPartnerPortal>false</enableSuggestedArticlesPartnerPortal>
-    <enableSuggestedSolutions>true</enableSuggestedSolutions>
+    <enableSuggestedArticlesApplication>true</enableSuggestedArticlesApplication>
+    <enableSuggestedArticlesCustomerPortal>true</enableSuggestedArticlesCustomerPortal>
+    <enableSuggestedArticlesPartnerPortal>true</enableSuggestedArticlesPartnerPortal>
+    <enableSuggestedSolutions>false</enableSuggestedSolutions>
     <escalateCaseBefore>false</escalateCaseBefore>
     <keepRecordTypeOnAssignmentRule>true</keepRecordTypeOnAssignmentRule>
     <notifyContactOnCaseComment>false</notifyContactOnCaseComment>
@@ -115,10 +101,9 @@
     <notifyOwnerOnCaseComment>false</notifyOwnerOnCaseComment>
     <notifyOwnerOnCaseOwnerChange>false</notifyOwnerOnCaseOwnerChange>
     <showEmailAttachmentsInCaseAttachmentsRL>true</showEmailAttachmentsInCaseAttachmentsRL>
-    <showFewerCloseActions>false</showFewerCloseActions>
-    <systemUserEmail>ravina.barud@tcs.com</systemUserEmail>
+    <systemUserEmail>automatedcase@00d8f0000008j3guaq.ext</systemUserEmail>
     <useSystemEmailAddress>true</useSystemEmailAddress>
-    <useSystemUserAsDefaultCaseUser>true</useSystemUserAsDefaultCaseUser>
+    <useSystemUserAsDefaultCaseUser>false</useSystemUserAsDefaultCaseUser>
     <visibleInCssCheckbox>false</visibleInCssCheckbox>
     <webToCase>
         <enableWebToCase>false</enableWebToCase>

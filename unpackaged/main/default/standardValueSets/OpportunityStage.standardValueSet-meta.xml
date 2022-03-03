@@ -4,7 +4,6 @@
     <standardValue>
         <fullName>00 - MQL</fullName>
         <default>false</default>
-        <description>&#39;Same as Stage 0 (not a different stage for buyer)</description>
         <label>00 - MQL</label>
         <closed>false</closed>
         <forecastCategory>BestCase</forecastCategory>

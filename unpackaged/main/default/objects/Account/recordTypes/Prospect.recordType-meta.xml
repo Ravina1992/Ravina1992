@@ -6,11 +6,19 @@
     <picklistValues>
         <picklist>AccountSource</picklist>
         <values>
+            <fullName>Bing Natural Search</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Employee Referral</fullName>
             <default>false</default>
         </values>
         <values>
             <fullName>Google Natural Search</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>LinkedIn</fullName>
             <default>false</default>
         </values>
         <values>
@@ -35,6 +43,10 @@
         </values>
         <values>
             <fullName>Website</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yahoo%21 Natural Search</fullName>
             <default>false</default>
         </values>
     </picklistValues>
@@ -299,69 +311,50 @@
         </values>
     </picklistValues>
     <picklistValues>
-        <picklist>SBQQ__CoTerminationEvent__c</picklist>
+        <picklist>Region__c</picklist>
         <values>
-            <fullName>Add-on</fullName>
+            <fullName>ASEAN</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Renewal</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>SBQQ__ContractCoTermination__c</picklist>
-        <values>
-            <fullName>Always</fullName>
+            <fullName>Africa %26 MENA %28Middle East North Africa%29</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Never</fullName>
-            <default>true</default>
-        </values>
-        <values>
-            <fullName>Prompt</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>SBQQ__RenewalModel__c</picklist>
-        <values>
-            <fullName>Asset Based</fullName>
+            <fullName>China</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Contract Based</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>SBQQ__RenewalPricingMethod__c</picklist>
-        <values>
-            <fullName>List</fullName>
+            <fullName>Europe</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Same</fullName>
-            <default>true</default>
+            <fullName>India</fullName>
+            <default>false</default>
         </values>
         <values>
-            <fullName>Uplift</fullName>
+            <fullName>Japan%2FKorea</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>LATAM</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>North America</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Oceania %28Australia%2C New Zealand%29</fullName>
             <default>false</default>
         </values>
     </picklistValues>
-    <picklistValues>
-        <picklist>SBQQ__TaxExempt__c</picklist>
-        <values>
-            <fullName>No</fullName>
-            <default>true</default>
-        </values>
-        <values>
-            <fullName>Yes</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
+    
+        
+        
+        
+        
+        <picklistValues>
         <picklist>Subtype__c</picklist>
         <values>
             <fullName>AM Service Provider</fullName>
@@ -372,11 +365,31 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Auditor</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consultancy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cybersecurity</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Developer</fullName>
             <default>false</default>
         </values>
         <values>
+            <fullName>EPC</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>IPP</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>N%2FA</fullName>
             <default>false</default>
         </values>
         <values>
@@ -388,11 +401,27 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Partner</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Passive Investor</fullName>
             <default>false</default>
         </values>
         <values>
+            <fullName>Reseller</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>System Integrator</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Utility</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Vendor</fullName>
             <default>false</default>
         </values>
     </picklistValues>

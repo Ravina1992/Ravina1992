@@ -2,9 +2,24 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
+        <fullName>Bing Natural Search</fullName>
+        <default>false</default>
+        <label>Bing Natural Search</label>
+    </standardValue>
+    <standardValue>
         <fullName>Employee Referral</fullName>
         <default>false</default>
         <label>Employee Referral</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Google Natural Search</fullName>
+        <default>false</default>
+        <label>Google Natural Search</label>
+    </standardValue>
+    <standardValue>
+        <fullName>LinkedIn</fullName>
+        <default>false</default>
+        <label>LinkedIn</label>
     </standardValue>
     <standardValue>
         <fullName>Other</fullName>
@@ -35,21 +50,6 @@
         <fullName>Website</fullName>
         <default>false</default>
         <label>Website</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Google Natural Search</fullName>
-        <default>false</default>
-        <label>Google Natural Search</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Bing Natural Search</fullName>
-        <default>false</default>
-        <label>Bing Natural Search</label>
-    </standardValue>
-    <standardValue>
-        <fullName>LinkedIn</fullName>
-        <default>false</default>
-        <label>LinkedIn</label>
     </standardValue>
     <standardValue>
         <fullName>Yahoo! Natural Search</fullName>

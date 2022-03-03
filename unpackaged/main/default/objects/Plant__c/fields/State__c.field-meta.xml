@@ -1871,12 +1871,152 @@
             </value>
         </valueSetDefinition>
         <valueSettings>
-            <controllingFieldValue>FR</controllingFieldValue>
-            <valueName>LYON</valueName>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Andaman and Nicobar Islands</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>FR</controllingFieldValue>
-            <valueName>Rhône-Alpes</valueName>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Andhra Pradesh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Arunachal Pradesh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Assam</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>BENGALURU</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Bihar</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Chandigarh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Chhattisgarh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Daman and Diu</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Delhi</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Dadra and Nagar Haveli</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Goa</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Gujarat</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Himachal Pradesh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Haryana</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Bangalore</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Jharkhand</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Jammu and Kashmir</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Karnataka</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Kerala</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Lakshadweep</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Maharashtra</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Meghalaya</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Manipur</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Madhya Pradesh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Mizoram</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Nagaland</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Odisha</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Punjab</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Puducherry</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Rajasthan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Sikkim</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Tamil Nadu</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Tripura</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Uttar Pradesh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>Uttarakhand</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>IN</controllingFieldValue>
+            <valueName>West Bengal</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>IE</controllingFieldValue>
@@ -2591,154 +2731,6 @@
             <valueName>LAHORE CANTT</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Andaman and Nicobar Islands</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Andhra Pradesh</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Arunachal Pradesh</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Assam</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>BENGALURU</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Bihar</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Chandigarh</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Chhattisgarh</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Daman and Diu</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Delhi</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Dadra and Nagar Haveli</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Goa</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Gujarat</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Himachal Pradesh</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Haryana</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Bangalore</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Jharkhand</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Jammu and Kashmir</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Karnataka</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Kerala</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Lakshadweep</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Maharashtra</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Meghalaya</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Manipur</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Madhya Pradesh</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Mizoram</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Nagaland</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Odisha</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Punjab</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Puducherry</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Rajasthan</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Sikkim</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Tamil Nadu</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Tripura</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Uttar Pradesh</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>Uttarakhand</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>IN</controllingFieldValue>
-            <valueName>West Bengal</valueName>
-        </valueSettings>
-        <valueSettings>
             <controllingFieldValue>AU</controllingFieldValue>
             <valueName>Australian Capital Territory</valueName>
         </valueSettings>
@@ -3083,16 +3075,24 @@
             <valueName>NORTH-RHINE-WESTPHALIA</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>TR</controllingFieldValue>
-            <valueName>GÖLBASI</valueName>
-        </valueSettings>
-        <valueSettings>
             <controllingFieldValue>ES</controllingFieldValue>
             <valueName>Province of Toledo</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>ES</controllingFieldValue>
             <valueName>Community of Madrid</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>TR</controllingFieldValue>
+            <valueName>GÖLBASI</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>FR</controllingFieldValue>
+            <valueName>LYON</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>FR</controllingFieldValue>
+            <valueName>Rhône-Alpes</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>US</controllingFieldValue>

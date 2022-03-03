@@ -16,10 +16,10 @@
     <tabs>standard-Account</tabs>
     <tabs>standard-Contact</tabs>
     <tabs>standard-Opportunity</tabs>
-    <tabs>standard-Case</tabs>
     <tabs>SBQQ__Quote__c</tabs>
+    <tabs>MSA_Contract__c</tabs>
     <tabs>Document_Link__c</tabs>
-    <tabs>Account_Plant__c</tabs>
+    <tabs>CRM_Project__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Power_Factor_Sales_UtilityBar</utilityBar>
 </CustomApplication>

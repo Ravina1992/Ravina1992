@@ -60,6 +60,12 @@
                 <default>false</default>
                 <label>N/A</label>
             </value>
+            <value>
+                <fullName>NA</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>NA</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

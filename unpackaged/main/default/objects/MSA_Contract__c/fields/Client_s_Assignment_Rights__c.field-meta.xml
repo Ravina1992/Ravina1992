@@ -23,14 +23,14 @@
                 <label>No assignment w/o consent (except transfer, merger, acquisition, sale, etc)</label>
             </value>
             <value>
-                <fullName>Notification required</fullName>
-                <default>true</default>
-                <label>Notification required</label>
-            </value>
-            <value>
                 <fullName>Silent</fullName>
                 <default>false</default>
                 <label>Silent</label>
+            </value>
+            <value>
+                <fullName>Notification required</fullName>
+                <default>true</default>
+                <label>Notification required</label>
             </value>
             <value>
                 <fullName>Any assignment w/o consent</fullName>

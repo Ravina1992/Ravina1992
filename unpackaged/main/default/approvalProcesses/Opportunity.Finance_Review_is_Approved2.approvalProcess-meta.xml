@@ -13,19 +13,15 @@
         <allowDelegate>false</allowDelegate>
         <assignedApprover>
             <approver>
-                <name>ayush.k12@tcs.com</name>
+                <name>arenaud@pfdrive.com</name>
                 <type>user</type>
             </approver>
             <approver>
-                <name>mohit.chaurasiya@tcs.com</name>
+                <name>elias.jaldenius@greenbyte.com</name>
                 <type>user</type>
             </approver>
             <approver>
-                <name>utkarsh.pal1@tcs.com</name>
-                <type>user</type>
-            </approver>
-            <approver>
-                <name>yash.sharma7@tcs.com</name>
+                <name>sdciccio@pfdrive.com</name>
                 <type>user</type>
             </approver>
             <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>

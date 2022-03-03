@@ -27,6 +27,10 @@
             <translation><!-- Developer --></translation>
         </picklistValues>
         <picklistValues>
+            <masterLabel>EPC</masterLabel>
+            <translation><!-- EPC --></translation>
+        </picklistValues>
+        <picklistValues>
             <masterLabel>IPP</masterLabel>
             <translation><!-- IPP --></translation>
         </picklistValues>

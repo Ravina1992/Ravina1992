@@ -17,24 +17,16 @@
     <tabs>standard-Account</tabs>
     <tabs>standard-Case</tabs>
     <tabs>standard-Contact</tabs>
-    <tabs>Finance_Checklist__c</tabs>
-    <tabs>Purchased_Product__c</tabs>
     <tabs>Document_Link__c</tabs>
-    <tabs>Account_Plant__c</tabs>
+    <tabs>CRM_Project__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Power_Factor_Service_Console_UtilityBar</utilityBar>
     <workspaceConfig>
         <mappings>
-            <tab>Account_Plant__c</tab>
+            <tab>CRM_Project__c</tab>
         </mappings>
         <mappings>
             <tab>Document_Link__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Finance_Checklist__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Purchased_Product__c</tab>
         </mappings>
         <mappings>
             <tab>standard-Account</tab>

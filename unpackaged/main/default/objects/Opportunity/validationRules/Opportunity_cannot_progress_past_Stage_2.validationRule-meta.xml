@@ -9,5 +9,5 @@
 NOT (ISPICKVAL(StageName , &#39;1 - Account Exploration&#39;)),
 NOT(ISPICKVAL(StageName  ,&#39;2 - Account Qualification&#39;))
 )</errorConditionFormula>
-    <errorMessage>The Account is Unapproved.so Opportunity cannot progress</errorMessage>
+    <errorMessage>The Account is Unapproved.so Opportunity cannot progress to next stage</errorMessage>
 </ValidationRule>

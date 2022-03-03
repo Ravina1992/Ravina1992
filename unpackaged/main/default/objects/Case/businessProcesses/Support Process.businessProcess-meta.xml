@@ -15,10 +15,6 @@
         <default>false</default>
     </values>
     <values>
-        <fullName>Confirm Pending</fullName>
-        <default>false</default>
-    </values>
-    <values>
         <fullName>Development finished</fullName>
         <default>false</default>
     </values>
@@ -48,10 +44,6 @@
     </values>
     <values>
         <fullName>Ready</fullName>
-        <default>false</default>
-    </values>
-    <values>
-        <fullName>Resolution Delivered</fullName>
         <default>false</default>
     </values>
     <values>

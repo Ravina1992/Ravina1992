@@ -11,6 +11,7 @@
     </actionOverrides>
     <brand>
         <headerColor>#0070D2</headerColor>
+        <logo>Lead_generation</logo>
         <logoVersion>1</logoVersion>
         <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
@@ -28,9 +29,13 @@
     <tabs>standard-Campaign</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>Plant__c</tabs>
-    <tabs>MSA_Contract__c</tabs>
-    <tabs>Finance_Checklist__c</tabs>
+    <tabs>DPSA_Contracted_Discount__c</tabs>
+    <tabs>Plant_Product_Transaction__c</tabs>
     <tabs>Account_Plant__c</tabs>
+    <tabs>DPSA_contract__c</tabs>
+    <tabs>Document_Link__c</tabs>
+    <tabs>MSA_Contract__c</tabs>
+    <tabs>CRM_Project__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Lead_Generation_UtilityBar</utilityBar>
 </CustomApplication>

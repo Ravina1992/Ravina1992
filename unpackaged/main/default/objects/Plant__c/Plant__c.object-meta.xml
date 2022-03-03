@@ -162,8 +162,6 @@
     <pluralLabel>Plants</pluralLabel>
     <searchLayouts>
         <searchResultsAdditionalFields>Asset_Class__c</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Shipping_State_Province__c</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Shipping_Country__c</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>MWp__c</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Operational_Status__c</searchResultsAdditionalFields>
     </searchLayouts>

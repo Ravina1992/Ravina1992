@@ -3,7 +3,7 @@
     <enableB2bmaAppEnabled>false</enableB2bmaAppEnabled>
     <enableEngagementHistoryDashboards>false</enableEngagementHistoryDashboards>
     <enableEnhancedProspectCustomFieldsSync>false</enableEnhancedProspectCustomFieldsSync>
-    <enablePardotAppV1Enabled>false</enablePardotAppV1Enabled>
+    <enablePardotAppV1Enabled>true</enablePardotAppV1Enabled>
     <enablePardotEnabled>false</enablePardotEnabled>
     <enablePardotObjectSync>false</enablePardotObjectSync>
     <enableProspectActivityDataset>false</enableProspectActivityDataset>

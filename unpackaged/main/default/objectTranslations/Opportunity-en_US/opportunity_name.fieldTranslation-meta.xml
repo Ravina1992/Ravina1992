@@ -6,7 +6,7 @@
         </caseValues>
         <caseValues>
             <plural>true</plural>
-            <value>Names</value>
+            <value>Opportunity Names</value>
         </caseValues>
         <name>opportunity_name</name>
         <startsWith>Vowel</startsWith>

@@ -1496,13 +1496,13 @@
             <visible>false</visible>
         </countries>
         <countries>
-            <active>false</active>
+            <active>true</active>
             <integrationValue>Greece</integrationValue>
             <isoCode>GR</isoCode>
             <label>Greece</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
-            <visible>false</visible>
+            <visible>true</visible>
         </countries>
         <countries>
             <active>false</active>
@@ -3753,7 +3753,7 @@
             <label>Namibia</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
-            <visible>false</visible>
+            <visible>true</visible>
         </countries>
         <countries>
             <active>false</active>
@@ -4010,13 +4010,13 @@
             <visible>false</visible>
         </countries>
         <countries>
-            <active>false</active>
+            <active>true</active>
             <integrationValue>Portugal</integrationValue>
             <isoCode>PT</isoCode>
             <label>Portugal</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
-            <visible>false</visible>
+            <visible>true</visible>
         </countries>
         <countries>
             <active>false</active>

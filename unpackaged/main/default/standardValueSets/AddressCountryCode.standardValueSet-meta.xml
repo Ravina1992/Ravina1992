@@ -62,6 +62,11 @@
         <label>Germany</label>
     </standardValue>
     <standardValue>
+        <fullName>GR</fullName>
+        <default>false</default>
+        <label>Greece</label>
+    </standardValue>
+    <standardValue>
         <fullName>IN</fullName>
         <default>false</default>
         <label>India</label>
@@ -97,6 +102,11 @@
         <label>Mexico</label>
     </standardValue>
     <standardValue>
+        <fullName>NA</fullName>
+        <default>false</default>
+        <label>Namibia</label>
+    </standardValue>
+    <standardValue>
         <fullName>NL</fullName>
         <default>false</default>
         <label>Netherlands</label>
@@ -130,6 +140,11 @@
         <fullName>PL</fullName>
         <default>false</default>
         <label>Poland</label>
+    </standardValue>
+    <standardValue>
+        <fullName>PT</fullName>
+        <default>false</default>
+        <label>Portugal</label>
     </standardValue>
     <standardValue>
         <fullName>ZA</fullName>

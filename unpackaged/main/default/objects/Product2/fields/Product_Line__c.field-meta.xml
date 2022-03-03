@@ -65,6 +65,18 @@
                 <default>false</default>
                 <label>Enterprise</label>
             </value>
+            <value>
+                <fullName>&quot;Core</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>&quot;Core</label>
+            </value>
+            <value>
+                <fullName>Edge Services&quot;</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Edge Services&quot;</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

@@ -237,51 +237,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -289,119 +277,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -409,56 +373,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -497,62 +441,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -716,51 +646,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -768,119 +686,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -888,56 +782,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -976,62 +850,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -1199,51 +1059,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -1251,119 +1099,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -1371,56 +1195,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1460,62 +1264,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -1679,51 +1469,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -1731,119 +1509,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -1851,56 +1605,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1939,62 +1673,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -2162,51 +1882,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -2214,119 +1922,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -2334,56 +2018,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2423,62 +2087,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -2642,51 +2292,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -2694,119 +2332,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -2814,56 +2428,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2902,62 +2496,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -3125,51 +2705,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -3177,119 +2745,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -3297,56 +2841,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -3386,62 +2910,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -3605,51 +3115,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -3657,119 +3155,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -3777,56 +3251,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -3865,62 +3319,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -4088,51 +3528,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -4140,119 +3568,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -4260,56 +3664,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -4349,62 +3733,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -4568,51 +3938,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -4620,119 +3978,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -4740,56 +4074,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -4828,62 +4142,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -5051,51 +4351,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -5103,119 +4391,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -5223,56 +4487,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -5312,62 +4556,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>
@@ -5531,51 +4761,39 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKR</field>
-            <label>Age</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3L</field>
+            <field>00N8F000000K9X3</field>
             <label>Amended Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRO</field>
+            <field>00N8F000000KZ0q</field>
             <label>Annual Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ0</field>
+            <field>00N8F000000K9uC</field>
             <label>Approval Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ1</field>
+            <field>00N8F000000K9uD</field>
             <label>Approval Step</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ2</field>
+            <field>00N8F000000K9uE</field>
             <label>Approver</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEx</field>
-            <label>ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNHu</field>
-            <label>AutomationBypassDateTime</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGy7</field>
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3M</field>
+            <field>00N8F000000K9X4</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN7z</field>
+            <field>00N8F000000KZ0X</field>
             <label>Contracting Entity</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X5</field>
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -5583,119 +4801,95 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF2</field>
-            <label>Expected ARR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UzNy</field>
+            <field>00N8F000000KLX7</field>
             <label>Finance Review</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70J</field>
+            <field>00N8F000000KNAg</field>
             <label>Greenbyte Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAqD</field>
+            <field>00N8F000000KY78</field>
             <label>Implementation Notes</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V2k2</field>
+            <field>00N8F000000KLys</field>
             <label>Invoice split notes</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNJl</field>
-            <label>IsAutomationBypassed</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgF7</field>
-            <label>Last Stage Change Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFC</field>
-            <label>Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N5f00000AGGyA</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbGA</field>
+            <field>00N8F000000KJeO</field>
             <label>Manager Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VBQG</field>
+            <field>00N8F000000KZ2x</field>
             <label>MSA Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VLRn</field>
+            <field>00N8F000000KZ0r</field>
             <label>Non-Recurring Revenue</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKl</field>
-            <label>NRR</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6Il</field>
-            <label>Opportunity Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3P</field>
+            <field>00N8F000000K9X7</field>
             <label>Ordered</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3O</field>
+            <field>00N8F000000K9X6</field>
             <label>Order Group ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyAj</field>
+            <field>00N8F000000KLX9</field>
             <label>Order Subtype</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t3</field>
+            <field>00N8F000000KLX8</field>
             <label>Order Type</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UyBS</field>
+            <field>00N8F000000KK5L</field>
             <label>Partner Account ID</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8Y</field>
+            <field>00N8F000000KZ2E</field>
             <label>Payment Terms</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V70E</field>
+            <field>00N8F000000KNAi</field>
             <label>PF Legacy SFDC Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1t8</field>
+            <field>00N8F000000KNAj</field>
             <label>Primary Contact</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3Q</field>
+            <field>00N8F000000K9X8</field>
             <label>Primary Quote</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEi</field>
+            <field>00N8F000000KJeP</field>
             <label>Primary Risk Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VNwn</field>
+            <field>00N8F000000KZZS</field>
             <label>Prior Owner&#39;s Email</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3R</field>
+            <field>00N8F000000K9X9</field>
             <label>Quote Pricebook Id</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3S</field>
+            <field>00N8F000000K9XA</field>
             <label>Renewal</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001Uj3T</field>
+            <field>00N8F000000K9XB</field>
             <label>Renewed Contract</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeQ</field>
             <label>Risk Comments</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -5703,56 +4897,36 @@
             <label>ROI Analysis Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKg</field>
-            <label>Sales Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UbFm</field>
+            <field>00N8F000000KJeR</field>
             <label>Sales Forecast Category</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VAq3</field>
+            <field>00N8F000000KY79</field>
             <label>Services Next Steps</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ3</field>
+            <field>00N8F000000K9uF</field>
             <label>Step Approved</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ4</field>
+            <field>00N8F000000K9uG</field>
             <label>Submitted Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UjQ5</field>
+            <field>00N8F000000K9uH</field>
             <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKb</field>
-            <label>Theater</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgFM</field>
-            <label>Total Recurring Revenue</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001VN8T</field>
+            <field>00N8F000000KZ2F</field>
             <label>Trial</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V6OA</field>
+            <field>00N8F000000KLyt</field>
             <label>Win/Loss Comment</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N7j000001V1tS</field>
+            <field>00N8F000000KK5M</field>
             <label>Win/Loss Reason</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N7j000001UgKW</field>
-            <label>Winning Vendor</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>PARTNER.NAME</field>
-            <label>Partner Account</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -5791,62 +4965,48 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N7j000001UgKR</field>
-            <field>00N7j000001Uj3L</field>
-            <field>00N7j000001VLRO</field>
-            <field>00N7j000001UjQ0</field>
-            <field>00N7j000001UjQ1</field>
-            <field>00N7j000001UjQ2</field>
-            <field>00N7j000001UgEx</field>
-            <field>00N7j000001VNHu</field>
+            <field>00N8F000000K9X3</field>
+            <field>00N8F000000KZ0q</field>
+            <field>00N8F000000K9uC</field>
+            <field>00N8F000000K9uD</field>
+            <field>00N8F000000K9uE</field>
             <field>00N5f00000AGGy7</field>
-            <field>00N7j000001Uj3M</field>
-            <field>00N7j000001VN7z</field>
-            <field>00N7j000001Uj3N</field>
+            <field>00N8F000000K9X4</field>
+            <field>00N8F000000KZ0X</field>
+            <field>00N8F000000K9X5</field>
             <field>00N5f00000AGGy8</field>
-            <field>00N7j000001UgF2</field>
-            <field>00N7j000001UzNy</field>
-            <field>00N7j000001V70J</field>
-            <field>00N7j000001VAqD</field>
-            <field>00N7j000001V2k2</field>
-            <field>00N7j000001VNJl</field>
-            <field>00N7j000001UgF7</field>
-            <field>00N7j000001UgFC</field>
+            <field>00N8F000000KLX7</field>
+            <field>00N8F000000KNAg</field>
+            <field>00N8F000000KY78</field>
+            <field>00N8F000000KLys</field>
             <field>00N5f00000AGGyA</field>
-            <field>00N7j000001UbGA</field>
-            <field>00N7j000001VBQG</field>
-            <field>00N7j000001VLRn</field>
-            <field>00N7j000001UgKl</field>
-            <field>00N7j000001V6Il</field>
-            <field>00N7j000001Uj3P</field>
-            <field>00N7j000001Uj3O</field>
-            <field>00N7j000001UyAj</field>
-            <field>00N7j000001V1t3</field>
-            <field>00N7j000001UyBS</field>
-            <field>00N7j000001VN8Y</field>
-            <field>00N7j000001V70E</field>
-            <field>00N7j000001V1t8</field>
-            <field>00N7j000001Uj3Q</field>
-            <field>00N7j000001UgEi</field>
-            <field>00N7j000001VNwn</field>
-            <field>00N7j000001Uj3R</field>
-            <field>00N7j000001Uj3S</field>
-            <field>00N7j000001Uj3T</field>
-            <field>00N7j000001UgEs</field>
+            <field>00N8F000000KJeO</field>
+            <field>00N8F000000KZ2x</field>
+            <field>00N8F000000KZ0r</field>
+            <field>00N8F000000K9X7</field>
+            <field>00N8F000000K9X6</field>
+            <field>00N8F000000KLX9</field>
+            <field>00N8F000000KLX8</field>
+            <field>00N8F000000KK5L</field>
+            <field>00N8F000000KZ2E</field>
+            <field>00N8F000000KNAi</field>
+            <field>00N8F000000KNAj</field>
+            <field>00N8F000000K9X8</field>
+            <field>00N8F000000KJeP</field>
+            <field>00N8F000000KZZS</field>
+            <field>00N8F000000K9X9</field>
+            <field>00N8F000000K9XA</field>
+            <field>00N8F000000K9XB</field>
+            <field>00N8F000000KJeQ</field>
             <field>00N5f00000AGGy9</field>
-            <field>00N7j000001UgKg</field>
-            <field>00N7j000001UbFm</field>
-            <field>00N7j000001VAq3</field>
-            <field>00N7j000001UjQ3</field>
-            <field>00N7j000001UjQ4</field>
-            <field>00N7j000001UjQ5</field>
-            <field>00N7j000001UgKb</field>
-            <field>00N7j000001UgFM</field>
-            <field>00N7j000001VN8T</field>
-            <field>00N7j000001V6OA</field>
-            <field>00N7j000001V1tS</field>
-            <field>00N7j000001UgKW</field>
-            <field>PARTNER.NAME</field>
+            <field>00N8F000000KJeR</field>
+            <field>00N8F000000KY79</field>
+            <field>00N8F000000K9uF</field>
+            <field>00N8F000000K9uG</field>
+            <field>00N8F000000K9uH</field>
+            <field>00N8F000000KZ2F</field>
+            <field>00N8F000000KLyt</field>
+            <field>00N8F000000KK5M</field>
         </opportunityListFieldsUnselectedSettings>
         <ownerAdjustableCategoryApiNames>bestcaseforecast</ownerAdjustableCategoryApiNames>
         <ownerAdjustableCategoryApiNames>commitforecast</ownerAdjustableCategoryApiNames>

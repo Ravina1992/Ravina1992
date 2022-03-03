@@ -167,7 +167,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>Account.Drive_Customer_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -262,7 +262,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Account.Region__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -967,7 +967,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Case.IsEscalated</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2447,7 +2447,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>Opportunity.Type</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4145,22 +4145,22 @@
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Opportunity-Amendment Layout</layout>
+        <layout>Opportunity-Opportunity Layout</layout>
         <recordType>Opportunity.Amendment</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Opportunity Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Opportunity-Products %26 Services</layout>
+        <layout>Opportunity-Opportunity Layout</layout>
         <recordType>Opportunity.Products_Services</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Opportunity-Renewal Layout</layout>
+        <layout>Opportunity-Opportunity Layout</layout>
         <recordType>Opportunity.Renewal</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Opportunity-Service Only</layout>
+        <layout>Opportunity-Opportunity Layout</layout>
         <recordType>Opportunity.Services_Only</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -4209,7 +4209,7 @@
         <layout>ProfileSkillUser-Skill User Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Purchased_Product_Transaction__c-Purchased Product Transaction Record Layout</layout>
+        <layout>Purchased_Product_Transaction__c-Purchased Product Transaction Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Purchased_Product__c-Purchase Product Layout</layout>
@@ -4689,9 +4689,9 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
-        <default>true</default>
+        <default>false</default>
         <recordType>Task.Collaboration_Request_Task</recordType>
-        <visible>true</visible>
+        <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Account_Plant__c</tab>

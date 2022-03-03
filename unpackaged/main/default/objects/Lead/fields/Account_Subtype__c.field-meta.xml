@@ -94,7 +94,6 @@
             <value>
                 <fullName>EPC</fullName>
                 <default>false</default>
-                <isActive>false</isActive>
                 <label>EPC</label>
             </value>
         </valueSetDefinition>

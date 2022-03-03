@@ -150,6 +150,121 @@
                 <default>false</default>
                 <label>NDA Request</label>
             </value>
+            <value>
+                <fullName>Active Opportunity</fullName>
+                <default>false</default>
+                <label>Active Opportunity</label>
+            </value>
+            <value>
+                <fullName>Partner Planning</fullName>
+                <default>false</default>
+                <label>Partner Planning</label>
+            </value>
+            <value>
+                <fullName>Partner Co-Sell</fullName>
+                <default>false</default>
+                <label>Partner Co-Sell</label>
+            </value>
+            <value>
+                <fullName>Customer</fullName>
+                <default>false</default>
+                <label>Customer</label>
+            </value>
+            <value>
+                <fullName>QBR</fullName>
+                <default>false</default>
+                <label>QBR</label>
+            </value>
+            <value>
+                <fullName>Executive Level</fullName>
+                <default>false</default>
+                <label>Executive Level</label>
+            </value>
+            <value>
+                <fullName>Generic Demo</fullName>
+                <default>false</default>
+                <label>Generic Demo</label>
+            </value>
+            <value>
+                <fullName>Custom Demo</fullName>
+                <default>false</default>
+                <label>Custom Demo</label>
+            </value>
+            <value>
+                <fullName>Security</fullName>
+                <default>false</default>
+                <label>Security</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+            <value>
+                <fullName>Internal Acquia</fullName>
+                <default>false</default>
+                <label>Internal Acquia</label>
+            </value>
+            <value>
+                <fullName>Discovery</fullName>
+                <default>false</default>
+                <label>Discovery</label>
+            </value>
+            <value>
+                <fullName>Renewal</fullName>
+                <default>false</default>
+                <label>Renewal</label>
+            </value>
+            <value>
+                <fullName>Welcome Call</fullName>
+                <default>false</default>
+                <label>Welcome Call</label>
+            </value>
+            <value>
+                <fullName>Wellness Call</fullName>
+                <default>false</default>
+                <label>Wellness Call</label>
+            </value>
+            <value>
+                <fullName>Health Score Update</fullName>
+                <default>false</default>
+                <label>Health Score Update</label>
+            </value>
+            <value>
+                <fullName>Incident Response</fullName>
+                <default>false</default>
+                <label>Incident Response</label>
+            </value>
+            <value>
+                <fullName>Success Plan Update</fullName>
+                <default>false</default>
+                <label>Success Plan Update</label>
+            </value>
+            <value>
+                <fullName>Audit</fullName>
+                <default>false</default>
+                <label>Audit</label>
+            </value>
+            <value>
+                <fullName>Marketing Email</fullName>
+                <default>false</default>
+                <label>Marketing Email</label>
+            </value>
+            <value>
+                <fullName>Check In</fullName>
+                <default>false</default>
+                <label>Check In</label>
+            </value>
+            <value>
+                <fullName>Follow Up</fullName>
+                <default>false</default>
+                <label>Follow Up</label>
+            </value>
+            <value>
+                <fullName>NPS</fullName>
+                <default>false</default>
+                <label>NPS</label>
+            </value>
         </valueSetDefinition>
         <valueSettings>
             <controllingFieldValue>Legal Task</controllingFieldValue>
@@ -210,6 +325,117 @@
         <valueSettings>
             <controllingFieldValue>Professional Services Task</controllingFieldValue>
             <valueName>Implementation Escalation</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Active Opportunity</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Partner Planning</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Partner Co-Sell</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Customer</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>QBR</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Executive Level</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Generic Demo</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Custom Demo</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Security</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Other</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Internal Acquia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Discovery</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Renewal</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Welcome Call</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Wellness Call</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Health Score Update</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Incident Response</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Success Plan Update</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Virtual</controllingFieldValue>
+            <controllingFieldValue>In person</controllingFieldValue>
+            <valueName>Audit</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Email</controllingFieldValue>
+            <valueName>Marketing Email</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Email</controllingFieldValue>
+            <valueName>Check In</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Email</controllingFieldValue>
+            <valueName>Follow Up</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Email</controllingFieldValue>
+            <valueName>NPS</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>Pre-Sales/Engineering Task</controllingFieldValue>

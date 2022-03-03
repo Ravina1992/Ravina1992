@@ -5,8 +5,8 @@
         <default>true</default>
         <fridayEndTime>00:00:00.000Z</fridayEndTime>
         <fridayStartTime>00:00:00.000Z</fridayStartTime>
-        <mondayEndTime>18:00:00.000Z</mondayEndTime>
-        <mondayStartTime>11:00:00.000Z</mondayStartTime>
+        <mondayEndTime>00:00:00.000Z</mondayEndTime>
+        <mondayStartTime>00:00:00.000Z</mondayStartTime>
         <name>Default</name>
         <saturdayEndTime>00:00:00.000Z</saturdayEndTime>
         <saturdayStartTime>00:00:00.000Z</saturdayStartTime>
@@ -15,8 +15,8 @@
         <thursdayEndTime>00:00:00.000Z</thursdayEndTime>
         <thursdayStartTime>00:00:00.000Z</thursdayStartTime>
         <timeZoneId>America/Los_Angeles</timeZoneId>
-        <tuesdayEndTime>18:00:00.000Z</tuesdayEndTime>
-        <tuesdayStartTime>11:00:00.000Z</tuesdayStartTime>
+        <tuesdayEndTime>00:00:00.000Z</tuesdayEndTime>
+        <tuesdayStartTime>00:00:00.000Z</tuesdayStartTime>
         <wednesdayEndTime>00:00:00.000Z</wednesdayEndTime>
         <wednesdayStartTime>00:00:00.000Z</wednesdayStartTime>
     </businessHours>

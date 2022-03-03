@@ -3,8 +3,8 @@
     <fullName>Update_Status_Reason</fullName>
     <active>true</active>
     <errorConditionFormula>AND(
-ISPICKVAL(   Contact_Status__c  , &quot;Disqualified&quot;),
-ISBLANK( TEXT(  Status_Reason__c  ) ))</errorConditionFormula>
+ISPICKVAL( Contact_Status__c , &quot;Disqualified&quot;),
+ISBLANK( TEXT( Status_Reason__c ) ))</errorConditionFormula>
     <errorDisplayField>Status_Reason__c</errorDisplayField>
     <errorMessage>Update the Status Reason.</errorMessage>
 </ValidationRule>

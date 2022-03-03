@@ -8,6 +8,8 @@
     <columns>OPPORTUNITY.STAGE_NAME</columns>
     <columns>OPPORTUNITY.PROBABILITY</columns>
     <columns>OPPORTUNITY.TYPE</columns>
+    <columns>Order_Type__c</columns>
+    <columns>Order_Subtype__c</columns>
     <columns>OPPORTUNITY.LEAD_SOURCE</columns>
     <columns>CORE.USERS.FULL_NAME</columns>
     <filterScope>Everything</filterScope>

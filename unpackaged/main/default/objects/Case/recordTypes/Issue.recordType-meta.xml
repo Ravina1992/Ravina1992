@@ -439,297 +439,6 @@
         </values>
     </picklistValues>
     <picklistValues>
-        <picklist>Case_Sub_Reason__c</picklist>
-        <values>
-            <fullName>API</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Accounts Management</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Admin - Jobs</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Admin Job - Data Reprocess</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Admin Job - Definition Sync</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Beta Testing</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Case - Case Manager</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Case - Case Templates</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Communication Loss</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Configuration</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Custom Reports</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Customer Specific Job</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Customer Specific Job Failure</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Data %26 Trends - Real-Time</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Data %26 Trends - historical</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Data Acquisition</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Data Backfill</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Data Extraction</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Data Ingestion</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Data Management</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Data Reconstruction</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Data Reprocess</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Decommissioning</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Device Mapping</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Direct connect</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Drive - Reports</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Drive Data</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Drive Historical Data</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Drive Mobile App</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Drive Pro Feature</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Energy API</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Error notification</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Event Generation</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Events - Event Manager</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Events - Gantt</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Events - Rule Manager</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Events - Work Orders</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>FSM</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>General Information</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>General UI Component</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Home - Production Chart</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Home - Production Overview</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Home - Time-Based Availability</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Implementation - Post SAT</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Incentive Reporting</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Incentive Reports</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Job Application</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>KPI Validation</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Metadata Entry</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Monitor - Asset State</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Monitor - Dashboard</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Monitor - Map</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Monitor - Overview</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Non-Core Attributes</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Operational Backlog</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Others</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>PF Communities</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>PF Internal Alerts</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>PMGS</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>PMGS Issue</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Phone Support</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Projects</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Reporting</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Reports</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Reports SSRS</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>SF Functionality</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Sales</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Shelving Rules</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Site Onboarding</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Sync Error</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Tabular Model</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Work Orders</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>Cause__c</picklist>
         <values>
             <fullName>3rd Party Weather Data Unavailable</fullName>
@@ -737,6 +446,10 @@
         </values>
         <values>
             <fullName>API Latency</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BP Infrastructure Failure - Unplanned</fullName>
             <default>false</default>
         </values>
         <values>
@@ -784,6 +497,10 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>DAS - OPCBuffer</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Data Unavailable</fullName>
             <default>false</default>
         </values>
@@ -796,11 +513,19 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>GB Infrastructure Failure - Unplanned</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Implementation Quality</fullName>
             <default>false</default>
         </values>
         <values>
             <fullName>Incorrect Permissions</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Infrastructure failure - Unplanned</fullName>
             <default>false</default>
         </values>
         <values>
@@ -836,6 +561,10 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>On-Site - OPC-buffer</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>On-Site DAS Failure</fullName>
             <default>false</default>
         </values>
@@ -865,6 +594,10 @@
         </values>
         <values>
             <fullName>User Confusion</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>VPN server issue</fullName>
             <default>false</default>
         </values>
     </picklistValues>
@@ -984,25 +717,6 @@
         </values>
     </picklistValues>
     <picklistValues>
-        <picklist>Controlling_Field__c</picklist>
-        <values>
-            <fullName>Communication issue</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Feature Request</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Issue</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Request%2FInquiry</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>Failure__c</picklist>
         <values>
             <fullName>Bug</fullName>
@@ -1070,6 +784,10 @@
         </values>
         <values>
             <fullName>Permissions Error</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Reports - Unavailable %2F Incorrect</fullName>
             <default>false</default>
         </values>
         <values>
@@ -1175,29 +893,6 @@
         <values>
             <fullName>P4 - Low</fullName>
             <default>true</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>Reason</picklist>
-        <values>
-            <fullName>Bug</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Feature Request</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Incomplete RFI Item</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Issue</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Request</fullName>
-            <default>false</default>
         </values>
     </picklistValues>
     <picklistValues>
@@ -1316,23 +1011,13 @@
     <picklistValues>
         <picklist>Type</picklist>
         <values>
+            <fullName>Communication issue</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Issue</fullName>
             <default>false</default>
         </values>
     </picklistValues>
-    <picklistValues>
-        <picklist>ccpe_r__Utilization_Category__c</picklist>
-        <values>
-            <fullName>Billable</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Exempt</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Non-Billable</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-</RecordType>
+    
+    </RecordType>

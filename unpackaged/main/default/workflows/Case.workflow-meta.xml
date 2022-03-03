@@ -8,8 +8,7 @@
             <field>ContactEmail</field>
             <type>email</type>
         </recipients>
-        <senderAddress>mchaurasiya@pfdrive.com</senderAddress>
-        <senderType>OrgWideEmailAddress</senderType>
+        <senderType>CurrentUser</senderType>
         <template>unfiled$public/Case_Welcome_Email</template>
     </alerts>
     <alerts>

@@ -153,6 +153,21 @@
                 <label>Drive - Model Generation</label>
             </value>
             <value>
+                <fullName>Drive O&amp;M - Layout Adjustment</fullName>
+                <default>false</default>
+                <label>Drive O&amp;M - Layout Adjustment</label>
+            </value>
+            <value>
+                <fullName>Drive O&amp;M - Permission Adjustment</fullName>
+                <default>false</default>
+                <label>Drive O&amp;M - Permission Adjustment</label>
+            </value>
+            <value>
+                <fullName>Drive O&amp;M - Ran Manual Sync</fullName>
+                <default>false</default>
+                <label>Drive O&amp;M - Ran Manual Sync</label>
+            </value>
+            <value>
                 <fullName>Escalate to Customer - Site Level Issue</fullName>
                 <default>false</default>
                 <label>Escalate to Customer - Site Level Issue</label>

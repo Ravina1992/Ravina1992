@@ -7,7 +7,7 @@
     <columns>Merge_into_del__c</columns>
     <filterScope>Mine</filterScope>
     <filters>
-        <field>Merged_Account__c</field>
+        <field>To_Be_Merged__c</field>
         <operation>equals</operation>
         <value>1</value>
     </filters>

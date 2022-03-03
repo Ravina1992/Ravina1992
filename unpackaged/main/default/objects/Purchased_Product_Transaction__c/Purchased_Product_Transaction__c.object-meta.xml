@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Purchased Product Transaction</label>
     <nameField>
-        <label>Purchased Product Transaction Records Name</label>
+        <label>Purchased Product Transaction Name</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>

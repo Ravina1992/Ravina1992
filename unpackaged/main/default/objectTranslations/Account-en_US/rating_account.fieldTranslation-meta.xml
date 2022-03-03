@@ -5,5 +5,5 @@
             <value>Account Rating</value>
         </caseValues>
         <name>rating_account</name>
-        <startsWith>Vowel</startsWith>
+        <startsWith>Consonant</startsWith>
     </CustomFieldTranslation>

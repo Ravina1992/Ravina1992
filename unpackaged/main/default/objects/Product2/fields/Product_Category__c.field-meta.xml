@@ -25,6 +25,18 @@
                 <default>false</default>
                 <label>Professional Services</label>
             </value>
+            <value>
+                <fullName>&quot;Software</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>&quot;Software</label>
+            </value>
+            <value>
+                <fullName>Professional Services&quot;</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Professional Services&quot;</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

@@ -169,6 +169,10 @@
             <fullName>N%2FA</fullName>
             <default>false</default>
         </values>
+        <values>
+            <fullName>Reduction</fullName>
+            <default>false</default>
+        </values>
     </picklistValues>
     <picklistValues>
         <picklist>Order_Type__c</picklist>
@@ -269,23 +273,5 @@
             <default>false</default>
         </values>
     </picklistValues>
-    <picklistValues>
-        <picklist>sbaa__ApprovalStatus__c</picklist>
-        <values>
-            <fullName>Approved</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Pending</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Recalled</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Rejected</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-</RecordType>
+    
+    </RecordType>

@@ -5,7 +5,7 @@
     <label>Opportunity</label>
     <referenceTo>Opportunity</referenceTo>
     <relationshipLabel>Competitor Differentiation Assessments</relationshipLabel>
-    <relationshipName>Competitor_Differentiation_Assessments</relationshipName>
+    <relationshipName>Competitor_Differentiation_Assessments1</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>
     <trackHistory>false</trackHistory>

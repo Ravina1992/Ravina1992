@@ -4,18 +4,18 @@
     <columns>FULL_NAME</columns>
     <columns>LEAD.COMPANY</columns>
     <columns>LEAD.TITLE</columns>
+    <columns>LEAD.STATUS</columns>
     <columns>LEAD.STATE</columns>
+    <columns>LEAD.COUNTRY_CODE</columns>
     <columns>LEAD.PHONE</columns>
     <columns>LEAD.EMAIL</columns>
-    <columns>LEAD.STATUS</columns>
-    <columns>CORE.USERS.FIRST_NAME</columns>
-    <columns>CORE.USERS.LAST_NAME</columns>
+    <columns>Lead_Owner__c</columns>
     <columns>LEAD.CREATED_DATE</columns>
     <filterScope>Everything</filterScope>
     <filters>
         <field>LEAD.STATUS</field>
         <operation>notEqual</operation>
-        <value>Qualified</value>
+        <value>MQL</value>
     </filters>
     <label>All Open Leads</label>
 </ListView>

@@ -2,7 +2,7 @@
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Collaboration_Request_Task</fullName>
     <active>true</active>
-    <label>Collaboration Request Task.</label>
+    <label>Collaboration Request Task</label>
     <picklistValues>
         <picklist>Detail__c</picklist>
         <values>
@@ -113,11 +113,11 @@
         </values>
         <values>
             <fullName>In Progress</fullName>
-            <default>true</default>
+            <default>false</default>
         </values>
         <values>
             <fullName>Not Started</fullName>
-            <default>false</default>
+            <default>true</default>
         </values>
         <values>
             <fullName>Pending Input</fullName>
@@ -139,7 +139,15 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Active Opportunity</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Additional Discount</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Audit</fullName>
             <default>false</default>
         </values>
         <values>
@@ -151,11 +159,19 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Check In</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Client-Supplied Contract</fullName>
             <default>false</default>
         </values>
         <values>
             <fullName>Create Quote</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Custom Demo</fullName>
             <default>false</default>
         </values>
         <values>
@@ -167,7 +183,15 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Customer</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Customer Care</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Discovery</fullName>
             <default>false</default>
         </values>
         <values>
@@ -175,7 +199,31 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Executive Level</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Follow Up</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Generic Demo</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Health Score Update</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Implementation Escalation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Incident Response</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Internal Acquia</fullName>
             <default>false</default>
         </values>
         <values>
@@ -183,7 +231,15 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Marketing Email</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>NDA Request</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>NPS</fullName>
             <default>false</default>
         </values>
         <values>
@@ -195,6 +251,18 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Partner Co-Sell</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Partner Planning</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>PoV Delivery</fullName>
             <default>false</default>
         </values>
@@ -203,7 +271,7 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Pre-Sales Support%0BCustom Request</fullName>
+            <fullName>Pre-Sales SupportCustom Request</fullName>
             <default>false</default>
         </values>
         <values>
@@ -215,7 +283,15 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>QBR</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>RAFI%2FRFP%2FSecQ</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Renewal</fullName>
             <default>false</default>
         </values>
         <values>
@@ -224,6 +300,10 @@
         </values>
         <values>
             <fullName>SOW</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Security</fullName>
             <default>false</default>
         </values>
         <values>
@@ -239,7 +319,19 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Success Plan Update</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Territory Update</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Welcome Call</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wellness Call</fullName>
             <default>false</default>
         </values>
     </picklistValues>
@@ -265,47 +357,15 @@
     <picklistValues>
         <picklist>Type</picklist>
         <values>
-            <fullName>Account Executive Task</fullName>
+            <fullName>Call</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Account Manager Task</fullName>
+            <fullName>Meeting</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>BDR Task</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Finance Task</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Legal Task</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Pre-Sales%2FEngineering Task</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Product%2FPM Task</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Professional Services Task</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Renewals Task</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Sales Ops Task</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>TPM Task</fullName>
+            <fullName>Other</fullName>
             <default>false</default>
         </values>
     </picklistValues>

@@ -2314,7 +2314,7 @@
         <layout>ProfileSkillUser-Skill User Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Purchased_Product_Transaction__c-Purchased Product Transaction Record Layout</layout>
+        <layout>Purchased_Product_Transaction__c-Purchased Product Transaction Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Purchased_Product__c-Purchase Product Layout</layout>

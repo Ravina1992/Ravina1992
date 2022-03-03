@@ -17,9 +17,9 @@
         <label>Greenbyte</label>
     </standardValue>
     <standardValue>
-        <fullName>3megawatt</fullName>
+        <fullName>BluePoint</fullName>
         <default>false</default>
-        <label>3megawatt</label>
+        <label>BluePoint</label>
     </standardValue>
     <standardValue>
         <fullName>Squid</fullName>
@@ -27,8 +27,8 @@
         <label>Squid</label>
     </standardValue>
     <standardValue>
-        <fullName>BluePoint</fullName>
+        <fullName>3megawatt</fullName>
         <default>false</default>
-        <label>BluePoint</label>
+        <label>3megawatt</label>
     </standardValue>
 </StandardValueSet>

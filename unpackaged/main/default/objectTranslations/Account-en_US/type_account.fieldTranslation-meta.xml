@@ -5,5 +5,5 @@
             <value>Account Type</value>
         </caseValues>
         <name>type_account</name>
-        <startsWith>Vowel</startsWith>
+        <startsWith>Consonant</startsWith>
     </CustomFieldTranslation>

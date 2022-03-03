@@ -15,7 +15,7 @@
     </lookupFilter>
     <referenceTo>Account</referenceTo>
     <relationshipLabel>Competitor Differentiation Assessments</relationshipLabel>
-    <relationshipName>Competitor_Differentiation_Assessments1</relationshipName>
+    <relationshipName>Competitor_Differentiation_Assessments2</relationshipName>
     <required>false</required>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

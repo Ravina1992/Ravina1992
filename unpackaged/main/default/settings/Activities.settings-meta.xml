@@ -19,7 +19,7 @@
     <enableSidebarCalendarShortcut>false</enableSidebarCalendarShortcut>
     <enableSimpleTaskCreateUI>true</enableSimpleTaskCreateUI>
     <enableTimelineCompDateSort xsi:nil="true"/>
-    <enableUNSTaskDelegatedToNotifications>false</enableUNSTaskDelegatedToNotifications>
+    <enableUNSTaskDelegatedToNotifications>true</enableUNSTaskDelegatedToNotifications>
     <enableUserListViewCalendars>false</enableUserListViewCalendars>
     <showCustomLogoMeetingRequests>false</showCustomLogoMeetingRequests>
     <showEventDetailsMultiUserCalendar>false</showEventDetailsMultiUserCalendar>

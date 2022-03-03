@@ -1,47 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <layouts>
         <layout>Account Layout</layout>
         <sections>
@@ -187,11 +145,11 @@
     </recordTypes>
     <validationRules>
         <errorMessage><!-- Approving an Account, these additional Legal Entity ,Theater,Bill To and Ship To primaryaddresses ,Compliance Designation,Uses MSA of:must be confirmed --></errorMessage>
-        <name>approving_an_Accounts</name>
+        <name>Approving_an_accounts</name>
     </validationRules>
     <validationRules>
         <errorMessage><!-- Please update parent account --></errorMessage>
-        <name>parent_account_required</name>
+        <name>Parent_account_required</name>
     </validationRules>
     <webLinks>
         <label><!-- GoogleMaps --></label>
@@ -209,4 +167,46 @@
         <label><!-- Merge_Accounts --></label>
         <name>Merge_Accounts</name>
     </webLinks>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 </CustomObjectTranslation>

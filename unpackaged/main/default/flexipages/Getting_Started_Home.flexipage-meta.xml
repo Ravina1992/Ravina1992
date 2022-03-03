@@ -5,7 +5,7 @@
             <componentInstance>
                 <componentInstanceProperties>
                     <name>context</name>
-                    <value>BOOKMARKS</value>
+                    <value>TO</value>
                 </componentInstanceProperties>
                 <componentName>forceChatter:exposedFeed</componentName>
                 <identifier>forceChatter_exposedFeed1</identifier>
@@ -25,26 +25,38 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
-                <componentName>home:recentRecordContainer</componentName>
-                <identifier>home_recentRecordContainer1</identifier>
+                <componentInstanceProperties>
+                    <name>entityNames</name>
+                    <valueList>
+                        <valueListItems>
+                            <value>Account</value>
+                        </valueListItems>
+                    </valueList>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>maxRecords</name>
+                    <value>3</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:recentItems</componentName>
+                <identifier>flexipage_recentItems1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>home:eventContainer</componentName>
-                <identifier>home_eventContainer</identifier>
+                <identifier>home_eventContainer1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>runtime_sales_activities:todayTaskContainer</componentName>
-                <identifier>runtime_sales_activities_todayTaskContainer</identifier>
+                <identifier>runtime_sales_activities_todayTaskContainer1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>runtime_approval_process:pendingApprovalCard</componentName>
-                <identifier>runtime_approval_process_pendingApprovalCard1</identifier>
+                <identifier>runtime_approval_process_pendingApprovalCard2</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -54,7 +66,7 @@
                     <value>list</value>
                 </componentInstanceProperties>
                 <componentName>home:newsPanel</componentName>
-                <identifier>home_newsPanel1</identifier>
+                <identifier>home_newsPanel2</identifier>
             </componentInstance>
         </itemInstances>
         <name>sidebar</name>

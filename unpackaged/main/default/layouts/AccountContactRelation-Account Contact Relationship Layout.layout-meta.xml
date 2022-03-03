@@ -14,10 +14,6 @@
                 <behavior>Required</behavior>
                 <field>ContactId</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>IsDirect</field>
-            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -27,6 +23,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Relationship_Strength__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>IsDirect</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>

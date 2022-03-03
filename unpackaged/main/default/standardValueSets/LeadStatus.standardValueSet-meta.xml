@@ -23,7 +23,7 @@
         <fullName>Qualifying</fullName>
         <default>false</default>
         <label>Qualifying</label>
-        <converted>true</converted>
+        <converted>false</converted>
     </standardValue>
     <standardValue>
         <fullName>Rejected</fullName>
@@ -41,6 +41,6 @@
         <fullName>MQL</fullName>
         <default>false</default>
         <label>MQL</label>
-        <converted>false</converted>
+        <converted>true</converted>
     </standardValue>
 </StandardValueSet>

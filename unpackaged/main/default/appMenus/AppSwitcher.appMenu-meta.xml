@@ -81,20 +81,20 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>OIQ_Integration</name>
+        <name>Pardot_to_SF_Integration_Secure_Connected_App</name>
         <type>ConnectedApp</type>
     </appMenuItems>
     <appMenuItems>
-        <name>Power_Factor_Service_Console</name>
+        <name>b2bma_canvas</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>BOSS_App_Lightning</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>SBQQ__QuoteQuickly</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>sbaa__AdvancedApprovals</name>
-        <type>CustomApplication</type>
+        <name>OIQ_Integration</name>
+        <type>ConnectedApp</type>
     </appMenuItems>
     <appMenuItems>
         <name>Dataloader_Bulk</name>
@@ -129,6 +129,18 @@
         <type>ConnectedApp</type>
     </appMenuItems>
     <appMenuItems>
+        <name>SBQQ__QuoteQuickly</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>sbaa__AdvancedApprovals</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Veritas_Customer_Support</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>project_cloud__Cloud_Coach</name>
         <type>CustomApplication</type>
     </appMenuItems>
@@ -146,6 +158,10 @@
     </appMenuItems>
     <appMenuItems>
         <name>project_cloud__project_resourcing_cloud</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Power_Factor_Service_Console</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>

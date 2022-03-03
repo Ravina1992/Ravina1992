@@ -2,11 +2,6 @@
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>51.0</apiVersion>
     <description>REQ-2280</description>
-    <formulas>
-        <name>NowFormula</name>
-        <dataType>DateTime</dataType>
-        <expression>now()</expression>
-    </formulas>
     <interviewLabel>OpportunityContactRole : Update Contact Role, Contact Status and Opty Primary Contact {!$Flow.CurrentDateTime}</interviewLabel>
     <label>OpportunityContactRole : Update Contact Role, Contact Status and Opty Primary Contact</label>
     <processMetadataValues>
@@ -88,21 +83,14 @@ The Primary indicator is selected.</description>
     <recordUpdates>
         <name>Update_Opportunity_Primary_Contact</name>
         <label>Update Opportunity Primary Contact</label>
-        <locationX>613</locationX>
-        <locationY>513</locationY>
+        <locationX>466</locationX>
+        <locationY>549</locationY>
         <filterLogic>and</filterLogic>
         <filters>
             <field>Id</field>
             <operator>EqualTo</operator>
             <value>
                 <elementReference>$Record.OpportunityId</elementReference>
-            </value>
-        </filters>
-        <filters>
-            <field>Primary_Contact__c</field>
-            <operator>IsNull</operator>
-            <value>
-                <booleanValue>true</booleanValue>
             </value>
         </filters>
         <inputAssignments>
@@ -138,5 +126,5 @@ The Primary indicator is selected.</description>
         <recordTriggerType>Create</recordTriggerType>
         <triggerType>RecordAfterSave</triggerType>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
 </Flow>
