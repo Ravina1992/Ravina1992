@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>true</doesSendEmailToMembers>
+    <name>Designated Article Reviewers</name>
+    <queueMembers>
+        <users>
+            <user>ayush.k12@tcs.com</user>
+            <user>ishan.b@tcs.com</user>
+            <user>mohammadsameer.siddiqui@tcs.com</user>
+            <user>mohit.chaurasiya@tcs.com</user>
+            <user>ravina.barud@tcs.com</user>
+            <user>parihar.sandeep@pfdrive.com</user>
+            <user>sharma.shiva2@tcs.com</user>
+            <user>utkarsh.pal1@tcs.com</user>
+            <user>yash.sharma7@tcs.com</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>KnowledgeArticleVersion</sobjectType>
+    </queueSobject>
+</Queue>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- If checked, the Product Rule will automatically add the Implementation SKU for this Product to the Quote line --></help>
+        <label><!-- Requires Implementation SKU --></label>
+        <name>Requires_Implementation_SKU__c</name>
+    </CustomFieldTranslation>

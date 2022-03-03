@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Call</fullName>
+        <default>false</default>
+        <label>Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Meeting</fullName>
+        <default>false</default>
+        <label>Meeting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pre-Sales/Engineering Task</fullName>
+        <default>false</default>
+        <label>Pre-Sales/Engineering Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Account Manager Task</fullName>
+        <default>false</default>
+        <label>Account Manager Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Account Executive Task</fullName>
+        <default>false</default>
+        <label>Account Executive Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Legal Task</fullName>
+        <default>false</default>
+        <label>Legal Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Finance Task</fullName>
+        <default>false</default>
+        <label>Finance Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>TPM Task</fullName>
+        <default>false</default>
+        <label>TPM Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Renewals Task</fullName>
+        <default>false</default>
+        <label>Renewals Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales Ops Task</fullName>
+        <default>false</default>
+        <label>Sales Ops Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>BDR Task</fullName>
+        <default>false</default>
+        <label>BDR Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Professional Services Task</fullName>
+        <default>false</default>
+        <label>Professional Services Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Product/PM Task</fullName>
+        <default>false</default>
+        <label>Product/PM Task</label>
+    </standardValue>
+</StandardValueSet>

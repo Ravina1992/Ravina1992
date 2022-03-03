@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Indicates Product Action Type for the Product Rule. This specific field is used for Adding Implementation SKU automatically using a Product Rule, when a Product is added provided the Product Record has a lookup to the associated Implementation SKU --></help>
+        <label><!-- Add Implementation Service --></label>
+        <name>Add_Implementation_Service__c</name>
+    </CustomFieldTranslation>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>51.0</apiVersion>
+    <decisions>
+        <name>Check_Account_Record_Type</name>
+        <label>Check Account Record Type</label>
+        <locationX>448</locationX>
+        <locationY>309</locationY>
+        <defaultConnectorLabel>Default Outcome</defaultConnectorLabel>
+        <rules>
+            <name>Check_for_Competitor</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>$Record.RecordType.DeveloperName</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <stringValue>Competitor</stringValue>
+                </rightValue>
+            </conditions>
+            <connector>
+                <targetReference>Update_Account_Type_to_Competitor</targetReference>
+            </connector>
+            <label>Check for Competitor</label>
+        </rules>
+        <rules>
+            <name>Check_for_Prospect</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>$Record.RecordType.DeveloperName</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <stringValue>Prospect</stringValue>
+                </rightValue>
+            </conditions>
+            <connector>
+                <targetReference>Update_Account_Type_to_Prospect</targetReference>
+            </connector>
+            <label>Check for Prospect</label>
+        </rules>
+        <rules>
+            <name>Check_for_Customer</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>$Record.RecordType.DeveloperName</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <stringValue>Customer</stringValue>
+                </rightValue>
+            </conditions>
+            <label>Check for Customer</label>
+        </rules>
+        <rules>
+            <name>Check_for_3rd_Party</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>$Record.RecordType.DeveloperName</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <stringValue>Third_Party</stringValue>
+                </rightValue>
+            </conditions>
+            <connector>
+                <targetReference>Update_Account_Type_to_3rd_Type</targetReference>
+            </connector>
+            <label>Check for 3rd Party</label>
+        </rules>
+    </decisions>
+    <interviewLabel>Update Account Type based on Account Record Type {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Update Account Type based on Account Record Type</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>CanvasMode</name>
+        <value>
+            <stringValue>FREE_FORM_CANVAS</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>AutoLaunchedFlow</processType>
+    <recordUpdates>
+        <name>Update_Account_Type_to_3rd_Type</name>
+        <label>Update Account Type to 3rd Type</label>
+        <locationX>589</locationX>
+        <locationY>514</locationY>
+        <inputAssignments>
+            <field>Type</field>
+            <value>
+                <stringValue>3rd Party</stringValue>
+            </value>
+        </inputAssignments>
+        <inputReference>$Record</inputReference>
+    </recordUpdates>
+    <recordUpdates>
+        <name>Update_Account_Type_to_Competitor</name>
+        <label>Update Account Type to Competitor</label>
+        <locationX>457</locationX>
+        <locationY>466</locationY>
+        <inputAssignments>
+            <field>Type</field>
+            <value>
+                <stringValue>Competitor</stringValue>
+            </value>
+        </inputAssignments>
+        <inputReference>$Record</inputReference>
+    </recordUpdates>
+    <recordUpdates>
+        <name>Update_Account_Type_to_Prospect</name>
+        <label>Update Account Type to Prospect</label>
+        <locationX>656</locationX>
+        <locationY>308</locationY>
+        <inputAssignments>
+            <field>Type</field>
+            <value>
+                <stringValue>Prospect</stringValue>
+            </value>
+        </inputAssignments>
+        <inputReference>$Record</inputReference>
+    </recordUpdates>
+    <start>
+        <locationX>329</locationX>
+        <locationY>48</locationY>
+        <connector>
+            <targetReference>Check_Account_Record_Type</targetReference>
+        </connector>
+        <object>Account</object>
+        <recordTriggerType>CreateAndUpdate</recordTriggerType>
+        <triggerType>RecordBeforeSave</triggerType>
+    </start>
+    <status>Active</status>
+    <variables>
+        <name>AccountRecordTypes</name>
+        <dataType>SObject</dataType>
+        <isCollection>true</isCollection>
+        <isInput>true</isInput>
+        <isOutput>true</isOutput>
+        <objectType>RecordType</objectType>
+    </variables>
+</Flow>

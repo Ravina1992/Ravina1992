@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Case Resolved Email</name>
+    <style>none</style>
+    <subject>Case is Resolved</subject>
+    <textOnly>Dear {!Case.Contact}
+
+According to our support agent, it looks like your ticket has been resolved.
+Should this not be the case, then all you need to do to reopen the ticket is reply to this email.
+If we don&#39;t hear from you within 48 hours, we&#39;ll assume that the ticket is resolved and close it.
+Thanks for your time,
+
+Your Greenbyte Success Team
+{!Case.Link}</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

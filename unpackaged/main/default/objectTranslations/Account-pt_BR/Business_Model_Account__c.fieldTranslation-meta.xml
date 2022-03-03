@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Business Model --></label>
+        <name>Business_Model_Account__c</name>
+        <picklistValues>
+            <masterLabel>Competitor</masterLabel>
+            <translation><!-- Competitor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Development, Construction &amp; Design Engineering</masterLabel>
+            <translation><!-- Development, Construction &amp; Design Engineering --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Education, Media, Investor &amp; Misc Consultant</masterLabel>
+            <translation><!-- Education, Media, Investor &amp; Misc Consultant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Independent Service Provider (ISP)</masterLabel>
+            <translation><!-- Independent Service Provider (ISP) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OEM, System Integrator &amp; Technology Service Provider</masterLabel>
+            <translation><!-- OEM, System Integrator &amp; Technology Service Provider --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Owner - Managing Partner</masterLabel>
+            <translation><!-- Owner - Managing Partner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Owner - Passive Partner</masterLabel>
+            <translation><!-- Owner - Passive Partner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Owner - Self Perform</masterLabel>
+            <translation><!-- Owner - Self Perform --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Utility - Regulated</masterLabel>
+            <translation><!-- Utility - Regulated --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Utility - Retail</masterLabel>
+            <translation><!-- Utility - Retail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Utility - T&amp;D</masterLabel>
+            <translation><!-- Utility - T&amp;D --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Utility - Unregulated</masterLabel>
+            <translation><!-- Utility - Unregulated --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

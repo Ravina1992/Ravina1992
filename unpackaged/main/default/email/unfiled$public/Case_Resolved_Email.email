@@ -1,0 +1,13 @@
+Dear {!Case.Contact} <br>
+<br>
+According to our support agent, it looks like your ticket has been resolved. <br>
+Should this not be the case, then all you need to do to reopen the ticket is reply to this email. <br>
+If we don't hear from you within 48 hours, we'll assume that the ticket is resolved and close it.<br>
+
+
+
+
+Thanks for your time,<br>
+<br>
+Your Greenbyte Success Team <br>
+{!Case.Link}

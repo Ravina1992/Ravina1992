@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assignmentRule>
+        <fullName>When Lead is created</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>Marketing_User</assignedTo>
+            <assignedToType>Queue</assignedToType>
+            <formula>ISNEW()</formula>
+        </ruleEntry>
+    </assignmentRule>
+</AssignmentRules>
